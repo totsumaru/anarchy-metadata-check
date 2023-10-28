@@ -107,32 +107,36 @@ export default function Home() {
   }
 
   return (
-    <div>
-      <div>
+    <div className="flex p-10 space-x-10">
+      {/* フィルター部分 */}
+      <div className="w-1/3 p-5 border rounded shadow-lg">
         {Object.keys(filters).sort().map(traitType => (
-          <div key={traitType}>
-            <h3>{traitType}</h3>
-            {filters[traitType].sort((a, b) => {
-              const prefixA = a.match(/[^\d]+/)?.[0] || '';  // 数字ではない部分を取得
-              const prefixB = b.match(/[^\d]+/)?.[0] || '';  // 数字ではない部分を取得
-              const numberA = a.match(/\d+/)?.[0] || '';  // 数字部分を取得
-              const numberB = b.match(/\d+/)?.[0] || '';  // 数字部分を取得
+          <div key={traitType} className="mb-4">
+            <h3 className="mb-2 text-lg font-bold">{traitType}</h3>
+            <div className="">
+              {filters[traitType].sort((a, b) => {
+                const prefixA = a.match(/[^\d]+/)?.[0] || '';  // 数字ではない部分を取得
+                const prefixB = b.match(/[^\d]+/)?.[0] || '';  // 数字ではない部分を取得
+                const numberA = a.match(/\d+/)?.[0] || '';  // 数字部分を取得
+                const numberB = b.match(/\d+/)?.[0] || '';  // 数字部分を取得
 
-              if (prefixA === prefixB) {
-                return parseInt(numberA) - parseInt(numberB);  // 同じ文字列の場合は数値としてソート
-              }
+                if (prefixA === prefixB) {
+                  return parseInt(numberA) - parseInt(numberB);  // 同じ文字列の場合は数値としてソート
+                }
 
-              return prefixA.localeCompare(prefixB);  // 文字列部分を優先してソート
-            }).map(value => (
-              <label key={value}>
-                <input
-                  type="checkbox"
-                  checked={checkboxState[traitType]?.[value] || false}
-                  onChange={() => handleCheckboxChange(traitType, value)}
-                />
-                {value}
-              </label>
-            ))}
+                return prefixA.localeCompare(prefixB);  // 文字列部分を優先してソート
+              }).map(value => (
+                <label key={value} className="block">
+                  <input
+                    type="checkbox"
+                    className="mr-2"
+                    checked={checkboxState[traitType]?.[value] || false}
+                    onChange={() => handleCheckboxChange(traitType, value)}
+                  />
+                  {value}
+                </label>
+              ))}
+            </div>
           </div>
         ))}
       </div>
