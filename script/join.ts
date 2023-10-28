@@ -2,7 +2,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 async function joinJsonFiles() {
-  const jsonDir = path.join(__dirname, '../public');
+  const jsonDir = path.join(__dirname, '../public/');
   const outputFilePath = path.join(jsonDir, 'combined.json');
 
   const combinedData: any[] = [];

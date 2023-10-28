@@ -30,13 +30,9 @@ export default function Home() {
   useEffect(() => {
     // 全てのデータを取得
     const loadData = async () => {
-      const loadedData: JsonData[] = [];
-      for (let i = 1; i <= 1600; i++) {
-        const response = await fetch(`/json/${i}.json`);
-        const jsonData: JsonData = await response.json();
-        loadedData.push(jsonData);
-      }
-      setData(loadedData);
+      const response = await fetch(`/json/combined.json`);
+      const jsonData: JsonData[] = await response.json();
+      setData(jsonData);
     };
     loadData().then(() => setLoading(false));
   }, []);
