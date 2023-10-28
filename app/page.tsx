@@ -64,30 +64,42 @@ export default function Home() {
 
     // チェックボックスの状態を切り替える
     currentCheckboxState[traitType][value] = !currentCheckboxState[traitType][value];
+
+    // 現在のチェックボックスの状態を調べる
+    const allUnchecked = Object.values(currentCheckboxState).every(trait => {
+      return Object.values(trait).every(checked => !checked);
+    });
+
     setCheckboxState(currentCheckboxState);
 
-    const selectedAttributes: { [traitType: string]: string[] } = {};
-
-    Object.keys(currentCheckboxState).forEach(tType => {
-      selectedAttributes[tType] = Object.keys(currentCheckboxState[tType])
-        .filter(val => currentCheckboxState[tType][val])
-        .map(val => val);
-    });
-
-    // チェックボックスの選択状態に基づいてデータをフィルタリング
-    const newFilteredData = data.filter(item => {
-      for (let tType of Object.keys(selectedAttributes)) {
-        if (selectedAttributes[tType].length > 0) {
-          const hasAttribute = item.attributes.some(attr => {
-            return tType === attr.trait_type && selectedAttributes[tType].includes(attr.value);
-          });
-          if (!hasAttribute) return false;
+    // フィルタリングするアイテムを選択
+    const checkedAttributes: Attribute[] = [];
+    Object.entries(currentCheckboxState).forEach(([key, values]) => {
+      Object.entries(values).forEach(([val, isChecked]) => {
+        if (isChecked) {
+          checkedAttributes.push({ trait_type: key, value: val });
         }
-      }
-      return true;
+      });
     });
 
-    setFilteredData(newFilteredData);
+    const newFilteredData = data.filter(item => {
+      return checkedAttributes.every(attr => {
+        return item.attributes.some(
+          itemAttr => itemAttr.trait_type === attr.trait_type && itemAttr.value === attr.value
+        );
+      });
+    });
+
+    // 全てのチェックボックスが外れている場合、または、フィルタリングされたデータの長さが0の場合、「存在しない」と表示
+    if (allUnchecked || newFilteredData.length === 0) {
+      setFilteredData([{
+        name: '存在しない',
+        description: '',
+        attributes: []
+      }]);
+    } else {
+      setFilteredData(newFilteredData);
+    }
   };
 
   if (loading) {
@@ -129,7 +141,6 @@ export default function Home() {
         {filteredData.map((item, index) => (
           <div key={index}>
             <h4>{item.name}</h4>
-            <p>{item.description}</p>
           </div>
         ))}
       </div>
