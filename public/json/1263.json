@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1263",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Heaven"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Rotten"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Specter Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

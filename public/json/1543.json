@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1543",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.77"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Chaos"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MikiMauo DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

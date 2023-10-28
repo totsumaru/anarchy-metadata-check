@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1572",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightmare Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Mustard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Dead60"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Nightmare Candy"
+    }
+  ]
+}

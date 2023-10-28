@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1136",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CyberReaperGirl Puberty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Chaos"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lily Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

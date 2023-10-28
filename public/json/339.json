@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0339",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Safety"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Forest"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DemonNerds Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Safety"
+    }
+  ]
+}

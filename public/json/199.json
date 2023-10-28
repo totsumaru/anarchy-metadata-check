@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0199",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who ToonsAreAlright"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Sunset"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

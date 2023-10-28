@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0089",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightmare Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchistBoy Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Nightmare Candy"
+    }
+  ]
+}

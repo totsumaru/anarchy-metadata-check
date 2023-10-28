@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1001",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "RollingBerry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arctic Mango"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1568",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Heavy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Crimson"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Heavy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0787",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

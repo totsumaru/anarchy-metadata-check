@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1168",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "PlanetOfAnarchy Utopia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "TimidBoy Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

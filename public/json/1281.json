@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1281",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.42"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt NOFX"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull DeadKing"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

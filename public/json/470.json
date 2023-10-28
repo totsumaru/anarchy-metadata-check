@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0470",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CurtainCall"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Specter Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

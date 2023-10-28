@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0751",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightmare Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Swamp"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AirJam Crazy"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Swamp"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Nightmare Candy"
+    }
+  ]
+}

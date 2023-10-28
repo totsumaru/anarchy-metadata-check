@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0793",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Return"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Poison"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DumbPunk Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

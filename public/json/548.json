@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0548",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival kasabian"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AirJam Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

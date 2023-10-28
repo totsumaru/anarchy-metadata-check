@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1315",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Strawberry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Acid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

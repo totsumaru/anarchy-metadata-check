@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0935",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Republic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

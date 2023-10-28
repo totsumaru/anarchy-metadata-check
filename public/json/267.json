@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0267",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air SugarCube"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Quack 7Nation"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

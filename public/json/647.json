@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0647",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Grape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Chicago"
+    },
+    {
+      "trait_type": "Head",
+      "value": "P_R_A_N Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Chicago"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

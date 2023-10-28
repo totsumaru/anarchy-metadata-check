@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0757",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Heaven"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "TimidBoy Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

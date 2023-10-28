@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0154",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Rotten"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny Vines"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Fog"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

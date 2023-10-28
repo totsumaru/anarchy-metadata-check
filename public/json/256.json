@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0256",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TitleBack"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Super-me"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AirJam DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

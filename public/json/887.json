@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0887",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.30"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Crimson"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy AoOni"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

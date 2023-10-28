@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1505",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Return"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Crimson"
+    },
+    {
+      "trait_type": "Head",
+      "value": "IronBoy Dull"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1566",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Daydream"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sid DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Daydream"
+    }
+  ]
+}

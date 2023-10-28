@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0490",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Republic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Dull"
+    },
+    {
+      "trait_type": "Head",
+      "value": "IronBoy DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

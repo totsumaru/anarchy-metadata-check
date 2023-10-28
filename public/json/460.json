@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0460",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TypographyRiot Clash"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchistBoy Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

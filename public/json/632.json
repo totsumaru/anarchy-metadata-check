@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0632",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Strawberry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie OnewayLove"
+    },
+    {
+      "trait_type": "Head",
+      "value": "P_R_A_N Drop"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1241",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightmare Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DemonNerds Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Fog"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Nightmare Candy"
+    }
+  ]
+}

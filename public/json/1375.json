@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1375",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightmare Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Lad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "king DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Nightmare Candy"
+    }
+  ]
+}

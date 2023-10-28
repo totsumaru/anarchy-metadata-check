@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1009",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Foals"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arctic Strawberry"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

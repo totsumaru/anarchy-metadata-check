@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1272",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Danger"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Sunset"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus Electric"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Danger"
+    }
+  ]
+}

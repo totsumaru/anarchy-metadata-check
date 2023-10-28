@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1100",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Heavy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "king Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Fog"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

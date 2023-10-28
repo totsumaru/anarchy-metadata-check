@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0285",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Heavy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Chicago"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy Drop"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Chicago"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Heavy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0904",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Danger"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Climber"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Danger"
+    }
+  ]
+}

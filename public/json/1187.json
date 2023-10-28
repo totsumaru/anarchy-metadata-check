@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1187",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Republic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Dawn"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Specter Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

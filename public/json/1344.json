@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1344",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.30"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil LexHive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

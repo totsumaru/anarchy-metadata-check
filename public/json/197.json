@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0197",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "PlanetOfAnarchy Shangri-La"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadTeddy DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

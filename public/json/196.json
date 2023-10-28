@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0196",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Danger"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Dead60"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Fog"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Danger"
+    }
+  ]
+}

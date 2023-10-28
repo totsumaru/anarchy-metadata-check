@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1444",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "PlanetOfAnarchy Shangri-La"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Fog"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

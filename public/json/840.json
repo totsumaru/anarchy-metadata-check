@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0840",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Heavy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Crimson"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DaftDuck Fetch"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

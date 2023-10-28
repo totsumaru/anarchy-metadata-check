@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0527",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

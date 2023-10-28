@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0221",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Grape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Dawn"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MadClown It"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

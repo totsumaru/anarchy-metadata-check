@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0626",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Mustard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "P_R_A_N Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

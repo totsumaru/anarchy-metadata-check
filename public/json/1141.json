@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1141",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.42"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BeastieCat FirstLove"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

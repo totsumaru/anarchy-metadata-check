@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0703",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

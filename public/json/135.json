@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0135",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Lemon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Crimson"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DemonNerds Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

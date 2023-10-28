@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0475",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "JewelNight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy AoOni"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

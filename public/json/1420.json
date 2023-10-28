@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1420",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "InTheShell"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Rotten"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1439",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival Raconteur"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Blink18"
+    },
+    {
+      "trait_type": "Head",
+      "value": "TimidBoy Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

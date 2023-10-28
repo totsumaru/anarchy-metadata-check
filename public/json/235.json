@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0235",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Attack"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny Hatred"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

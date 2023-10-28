@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0675",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TitleBack"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Dawn"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

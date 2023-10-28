@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1521",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TitleBack"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DaftDuck Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

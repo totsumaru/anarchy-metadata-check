@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0573",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Milk"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Acid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus Electric"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1242",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Explain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Poison"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DaftDuck Fetch"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

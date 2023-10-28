@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0006",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Generation"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Dead80"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Specter Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

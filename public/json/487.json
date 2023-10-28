@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0487",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Wavves"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Climber"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny BlueHearts"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

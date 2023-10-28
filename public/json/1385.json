@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1385",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Attack"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Dawn"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull Sick"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

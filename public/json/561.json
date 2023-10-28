@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0561",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Melon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Chicago"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny World'sEnd"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Chicago"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

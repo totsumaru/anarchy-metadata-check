@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0044",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Safety"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "IronBoy Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Safety"
+    }
+  ]
+}

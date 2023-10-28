@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0942",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Explain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Specter Rotten"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

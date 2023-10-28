@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0549",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightmare Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Dead80"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull DeadKing"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Nightmare Candy"
+    }
+  ]
+}

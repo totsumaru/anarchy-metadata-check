@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1523",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Heavy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "TimidBoy Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

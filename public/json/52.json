@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0052",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightmare Dreamy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Climber"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Nightmare Dreamy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1111",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Republic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Leather"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DumbPunk Strokes"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

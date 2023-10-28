@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0076",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Attack"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DumbPunk Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

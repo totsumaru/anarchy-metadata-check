@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0901",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CyberReaperGirl Puberty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Acid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DemonNerds PunkyBadHip"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

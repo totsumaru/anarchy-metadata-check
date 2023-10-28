@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1331",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

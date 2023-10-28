@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0309",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who ToonsAreAlright"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Super-me"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lily Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

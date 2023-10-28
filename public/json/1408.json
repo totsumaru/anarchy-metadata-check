@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1408",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival Raconteur"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Lad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny World'sEnd"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

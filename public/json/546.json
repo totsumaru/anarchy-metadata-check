@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0546",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu OffMenu"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Chaos"
+    },
+    {
+      "trait_type": "Head",
+      "value": "king Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

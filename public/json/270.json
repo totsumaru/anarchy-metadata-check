@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0270",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TitleBack"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MikiMauo Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1020",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Nuxx"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Dead60"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

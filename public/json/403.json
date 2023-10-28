@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0403",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air BlueHawaii"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Dawn"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

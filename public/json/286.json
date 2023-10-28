@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0286",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Melon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MikiMauo Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

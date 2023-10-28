@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1181",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Melon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon TooDeep"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sid Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

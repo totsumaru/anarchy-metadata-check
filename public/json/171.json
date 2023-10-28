@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0171",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "JewelNight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Poison"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sid Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

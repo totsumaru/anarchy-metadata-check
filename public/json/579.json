@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0579",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival Raconteur"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny Vines"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

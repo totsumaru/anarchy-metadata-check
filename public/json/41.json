@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0041",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CyberReaperGirl Resistance"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Blink18"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1045",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy Galaxydays"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

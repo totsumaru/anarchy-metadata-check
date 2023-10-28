@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0608",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "PlanetOfAnarchy Utopia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Foals"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Specter Rotten"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1396",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "PlanetOfAnarchy Dystopia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Chaos"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadTeddy Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

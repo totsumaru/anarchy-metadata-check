@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0982",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "RollingBerry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

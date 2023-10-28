@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1472",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightmare Candy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Swamp"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MikiMauo Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Swamp"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Nightmare Candy"
+    }
+  ]
+}

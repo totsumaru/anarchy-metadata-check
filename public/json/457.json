@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0457",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Roger"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MikiMauo DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

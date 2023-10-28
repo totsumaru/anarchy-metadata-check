@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0765",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.30"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Lager"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AirJam Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

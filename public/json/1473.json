@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1473",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who ToonsAreAlright"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AirJam Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

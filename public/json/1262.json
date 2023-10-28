@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1262",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Return"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Quack Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1153",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Safety"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Blink18"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Safety"
+    }
+  ]
+}

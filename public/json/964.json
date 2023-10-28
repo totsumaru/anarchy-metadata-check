@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0964",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Return"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0923",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightmare Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

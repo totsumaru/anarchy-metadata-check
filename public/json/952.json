@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0952",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Attack"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MadClown Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

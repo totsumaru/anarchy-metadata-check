@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0394",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CyberReaperGirl Memories"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt GWD"
+    },
+    {
+      "trait_type": "Head",
+      "value": "TimidBoy Rancid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

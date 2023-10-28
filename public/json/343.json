@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0343",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Brain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Lager"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

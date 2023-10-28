@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1392",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Roger"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadTeddy Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

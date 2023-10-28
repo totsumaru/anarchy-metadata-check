@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1389",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival Raconteur"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Runaway"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MadClown DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1330",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Pete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Foals"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SleepGoat BlackMath"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

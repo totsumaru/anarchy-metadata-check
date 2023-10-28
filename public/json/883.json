@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0883",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Brain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard Gypsy"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

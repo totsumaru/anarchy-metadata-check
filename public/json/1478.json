@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1478",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Chicago"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BeastieCat Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Chicago"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

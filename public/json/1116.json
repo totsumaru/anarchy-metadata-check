@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1116",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival Raconteur"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DemonNerds Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

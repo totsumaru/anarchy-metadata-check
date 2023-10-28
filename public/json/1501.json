@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1501",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

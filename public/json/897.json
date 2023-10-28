@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0897",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CurtainCall"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt GWD"
+    },
+    {
+      "trait_type": "Head",
+      "value": "TimidBoy Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

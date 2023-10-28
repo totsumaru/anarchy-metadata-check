@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0826",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "RollingBerry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Blink18"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DaftDuck Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

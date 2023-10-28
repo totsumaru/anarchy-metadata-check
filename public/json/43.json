@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0043",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air SugarCube"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Chicago"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DaftDuck Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Chicago"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

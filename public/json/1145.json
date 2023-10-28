@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1145",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.20"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny HappyEnd"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

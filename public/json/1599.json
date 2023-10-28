@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1599",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CyberReaperGirl Resistance"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Forest"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SleepGoat BlackMath"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

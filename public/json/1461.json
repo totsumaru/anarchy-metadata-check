@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1461",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Danger"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Runaway"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DemonNerds Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Danger"
+    }
+  ]
+}

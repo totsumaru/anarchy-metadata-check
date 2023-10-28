@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0321",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Daydream"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon MadAcid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Daydream"
+    }
+  ]
+}

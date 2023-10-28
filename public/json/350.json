@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0350",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Explain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Lager"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MadClown Drop"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

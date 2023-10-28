@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0966",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Explain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Survivor"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Drop"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

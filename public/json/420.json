@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0420",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TypographyRiot Clash"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Foals"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MikiMauo Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

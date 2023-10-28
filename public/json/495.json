@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0495",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "JewelNight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Lad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BeastieCat Drop"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

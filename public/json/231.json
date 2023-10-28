@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0231",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.42"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny BlueHearts"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

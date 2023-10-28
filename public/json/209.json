@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0209",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Safety"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Dull"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BeastieCat Drop"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Safety"
+    }
+  ]
+}

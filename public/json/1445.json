@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1445",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival kasabian"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DorkyWolf Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0219",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CurtainCall"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy AoOni"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

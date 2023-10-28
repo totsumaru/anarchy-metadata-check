@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1579",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "RollingLemon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

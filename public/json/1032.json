@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1032",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AirJam Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1227",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival kasabian"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt GWD"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Quack DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

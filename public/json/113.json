@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0113",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Lemon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0438",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air BlueHawaii"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Swamp"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MadClown DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Swamp"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

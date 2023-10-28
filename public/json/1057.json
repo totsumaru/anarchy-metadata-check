@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1057",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Heavy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DaftDuck Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Heavy"
+    }
+  ]
+}

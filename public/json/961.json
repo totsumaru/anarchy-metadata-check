@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0961",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Daydream"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon LostLove"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sid Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Daydream"
+    }
+  ]
+}

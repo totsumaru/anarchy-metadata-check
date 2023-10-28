@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1079",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Medium"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon MadAcid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

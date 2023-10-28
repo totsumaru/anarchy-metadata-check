@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0853",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "TimidBoy Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

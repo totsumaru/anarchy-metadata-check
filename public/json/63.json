@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0063",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Milk"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Dull"
+    },
+    {
+      "trait_type": "Head",
+      "value": "TimidBoy Rancid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

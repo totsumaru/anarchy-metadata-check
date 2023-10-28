@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0609",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Generation"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie OnewayLove"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BeastieCat Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

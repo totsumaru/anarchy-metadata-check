@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0238",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Republic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Forest"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchistBoy Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

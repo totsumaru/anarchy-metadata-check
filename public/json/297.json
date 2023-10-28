@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0297",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt GWD"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Light"
+    }
+  ]
+}

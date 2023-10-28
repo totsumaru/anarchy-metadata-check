@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1379",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival kasabian"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Foals"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BeastieCat FirstLove"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

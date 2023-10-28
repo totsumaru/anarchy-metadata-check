@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0027",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who ToonsAreAlright"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt FakeClimber"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull Sick"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

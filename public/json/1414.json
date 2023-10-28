@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1414",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival Franz"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny Michelle"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

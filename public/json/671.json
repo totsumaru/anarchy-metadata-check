@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0671",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Medium"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Sunset"
+    },
+    {
+      "trait_type": "Head",
+      "value": "P_R_A_N Dream"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

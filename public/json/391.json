@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0391",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Strawberry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon TooDeep"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MadClown Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

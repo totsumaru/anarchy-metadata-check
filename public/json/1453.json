@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1453",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival Franz"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Runaway"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DumbPunk DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

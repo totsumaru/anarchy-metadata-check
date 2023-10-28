@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1150",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air BlueHawaii"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie OnewayLove"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lily Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1000",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Revival Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lily Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

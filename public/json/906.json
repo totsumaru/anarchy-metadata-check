@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0906",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Return"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon MadAcid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus Woodstock"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

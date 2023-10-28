@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0306",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Brain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny Undercover"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

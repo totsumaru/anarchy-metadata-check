@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1324",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.30"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SleepGoat BlackMath"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

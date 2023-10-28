@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0843",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Safety"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Runaway"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lily DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Safety"
+    }
+  ]
+}

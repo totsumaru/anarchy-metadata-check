@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1283",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "RollingLemon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Acid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Specter Rotten"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

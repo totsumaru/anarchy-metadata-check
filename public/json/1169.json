@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1169",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "RollingBerry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus Woodstock"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

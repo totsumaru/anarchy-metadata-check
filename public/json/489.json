@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0489",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CyberReaperGirl Resistance"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Chaos"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

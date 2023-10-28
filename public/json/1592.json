@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1592",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Rotten"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Lad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

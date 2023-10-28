@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1302",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TypographyRiot Clash"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Quack Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

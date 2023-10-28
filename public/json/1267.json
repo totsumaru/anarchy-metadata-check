@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1267",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie OnewayLove"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Specter Rotten"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Light"
+    }
+  ]
+}

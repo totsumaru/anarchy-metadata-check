@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0410",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Heaven"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BurglarBunny Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

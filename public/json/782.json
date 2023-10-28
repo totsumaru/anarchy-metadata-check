@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0782",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BeastieCat Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

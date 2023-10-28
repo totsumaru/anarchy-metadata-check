@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0888",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Wavves"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

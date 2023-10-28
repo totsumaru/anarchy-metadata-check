@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #0539",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SleepGoat Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

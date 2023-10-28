@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1067",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Strawberry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "TimidBoy Rancid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1110",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Heaven"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "IronBoy Dull"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}
