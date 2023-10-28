@@ -1,6 +1,7 @@
 "use client"
 
 import React, { useEffect, useState } from 'react';
+import { ChevronDownIcon } from "@heroicons/react/24/outline";
 
 type Attribute = {
   trait_type: string;
@@ -19,6 +20,12 @@ export default function Home() {
   const [filters, setFilters] = useState<Record<string, string[]>>({});
   const [checkboxState, setCheckboxState] = useState<Record<string, Record<string, boolean>>>({});
   const [loading, setLoading] = useState<boolean>(true);
+  // アコーディオンの状態を管理するstate
+  const [accordionState, setAccordionState] = useState<Record<string, boolean>>({});
+
+  const toggleAccordion = (traitType: string) => {
+    setAccordionState(prev => ({ ...prev, [traitType]: !prev[traitType] }));
+  }
 
   useEffect(() => {
     // 全てのデータを取得
@@ -111,32 +118,41 @@ export default function Home() {
       {/* フィルター部分 */}
       <div className="w-1/3 p-5 border rounded shadow-lg">
         {Object.keys(filters).sort().map(traitType => (
-          <div key={traitType} className="mb-4">
-            <h3 className="mb-2 text-lg font-bold">{traitType}</h3>
-            <div className="">
-              {filters[traitType].sort((a, b) => {
-                const prefixA = a.match(/[^\d]+/)?.[0] || '';  // 数字ではない部分を取得
-                const prefixB = b.match(/[^\d]+/)?.[0] || '';  // 数字ではない部分を取得
-                const numberA = a.match(/\d+/)?.[0] || '';  // 数字部分を取得
-                const numberB = b.match(/\d+/)?.[0] || '';  // 数字部分を取得
+          <div key={traitType} className="mb-1">
+            <h3 className="mb-2 text-lg font-bold cursor-pointer flex items-center"
+                onClick={() => toggleAccordion(traitType)}>
+              {traitType}
+              <span className="ml-2">
+                <ChevronDownIcon
+                  className={`w-5 h-5 transform transition-transform duration-300 ${accordionState[traitType] ? 'rotate-180' : ''}`}/>
+              </span>
+            </h3>
+            {accordionState[traitType] && (
+              <div className="">
+                {filters[traitType].sort((a, b) => {
+                  const prefixA = a.match(/[^\d]+/)?.[0] || '';  // 数字ではない部分を取得
+                  const prefixB = b.match(/[^\d]+/)?.[0] || '';  // 数字ではない部分を取得
+                  const numberA = a.match(/\d+/)?.[0] || '';  // 数字部分を取得
+                  const numberB = b.match(/\d+/)?.[0] || '';  // 数字部分を取得
 
-                if (prefixA === prefixB) {
-                  return parseInt(numberA) - parseInt(numberB);  // 同じ文字列の場合は数値としてソート
-                }
+                  if (prefixA === prefixB) {
+                    return parseInt(numberA) - parseInt(numberB);  // 同じ文字列の場合は数値としてソート
+                  }
 
-                return prefixA.localeCompare(prefixB);  // 文字列部分を優先してソート
-              }).map(value => (
-                <label key={value} className="block">
-                  <input
-                    type="checkbox"
-                    className="mr-2"
-                    checked={checkboxState[traitType]?.[value] || false}
-                    onChange={() => handleCheckboxChange(traitType, value)}
-                  />
-                  {value}
-                </label>
-              ))}
-            </div>
+                  return prefixA.localeCompare(prefixB);  // 文字列部分を優先してソート
+                }).map(value => (
+                  <label key={value} className="block">
+                    <input
+                      type="checkbox"
+                      className="mr-2"
+                      checked={checkboxState[traitType]?.[value] || false}
+                      onChange={() => handleCheckboxChange(traitType, value)}
+                    />
+                    {value}
+                  </label>
+                ))}
+              </div>
+            )}
           </div>
         ))}
       </div>
