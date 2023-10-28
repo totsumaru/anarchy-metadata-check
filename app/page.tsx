@@ -112,7 +112,7 @@ export default function Home() {
   return (
     <div className="flex p-10 space-x-10">
       {/* フィルター部分 */}
-      <div className="w-1/3 p-5 border rounded shadow-lg">
+      <div className="p-5 border rounded shadow-lg bg-blue-100 w-fit">
         {Object.keys(filters).sort().map(traitType => (
           <div key={traitType} className="mb-1">
             <h3 className="mb-2 text-lg font-bold cursor-pointer flex items-center"
