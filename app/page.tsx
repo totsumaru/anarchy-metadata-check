@@ -168,7 +168,9 @@ export default function Home() {
         ))}
       </div>
 
-      <div>
+      <div className="fixed top-12 right-10 w-1/2 h-screen overflow-auto bg-yellow-100 pt-5 pl-5">
+        <p>結果</p>
+        <p>-------------</p>
         {filteredData.map((item, index) => (
           <div key={index}>
             <h4>{item.name}</h4>
