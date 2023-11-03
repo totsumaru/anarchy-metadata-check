@@ -15,13 +15,12 @@ type JsonData = {
 };
 
 export default function Home() {
-  const [data, setData] = useState<JsonData[]>([]); // 全てのデータ
-  const [filteredData, setFilteredData] = useState<JsonData[]>([]);
-  const [filters, setFilters] = useState<Record<string, string[]>>({});
-  const [checkboxState, setCheckboxState] = useState<Record<string, Record<string, boolean>>>({});
-  const [loading, setLoading] = useState<boolean>(true);
-  // アコーディオンの状態を管理するstate
-  const [accordionState, setAccordionState] = useState<Record<string, boolean>>({});
+  const [data, setData] = useState<JsonData[]>([]); // 全てのデータを格納するための状態
+  const [filteredData, setFilteredData] = useState<JsonData[]>([]); // フィルタリングされたデータを格納するための状態
+  const [filters, setFilters] = useState<Record<string, string[]>>({}); // 各属性タイプに対する可能な値のリストを格納するための状態
+  const [checkboxState, setCheckboxState] = useState<Record<string, Record<string, boolean>>>({}); // チェックボックスの選択状態を格納するための状態
+  const [loading, setLoading] = useState<boolean>(true); // データのロード中かどうかを示すための状態
+  const [accordionState, setAccordionState] = useState<Record<string, boolean>>({}); // アコーディオンの展開/折りたたみ状態を格納するための状態
 
   const toggleAccordion = (traitType: string) => {
     setAccordionState(prev => ({ ...prev, [traitType]: !prev[traitType] }));
@@ -61,6 +60,20 @@ export default function Home() {
     setFilters(newFilters);
     setCheckboxState(newCheckboxState);
   }, [data]);
+
+  // チェックボックスを全て外す
+  const resetCheckbox = () => {
+    const newCheckboxState: Record<string, Record<string, boolean>> = {};
+    Object.keys(checkboxState).forEach(traitType => {
+      newCheckboxState[traitType] = {};
+      Object.keys(checkboxState[traitType]).forEach(value => {
+        newCheckboxState[traitType][value] = false;
+      });
+    });
+    setCheckboxState(newCheckboxState);
+    // 選択されている状態(state)も全て外す
+    setFilteredData([]);
+  }
 
   const handleCheckboxChange = (traitType: string, value: string) => {
     const currentCheckboxState = { ...checkboxState };
@@ -112,7 +125,9 @@ export default function Home() {
   return (
     <div className="flex p-10 space-x-10">
       {/* フィルター部分 */}
+      {/* チェックボックスを全て外すボタン */}
       <div className="p-5 border rounded shadow-lg bg-blue-100 w-fit">
+        <button className="mb-5 p-2 rounded-md bg-white" onClick={resetCheckbox}>クリア</button>
         {Object.keys(filters).sort().map(traitType => (
           <div key={traitType} className="mb-1">
             <h3 className="mb-2 text-lg font-bold cursor-pointer flex items-center"
