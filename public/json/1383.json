@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "PlanetOfAnarchy Utopia"
+      "value": "Daydream"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Dull"
+      "value": "T_shirt FakeClimber"
     },
     {
       "trait_type": "Head",
-      "value": "DaftDuck Midnight"
+      "value": "MadClown It"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Daydream"
     }
   ]
 }

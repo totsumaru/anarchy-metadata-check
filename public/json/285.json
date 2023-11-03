@@ -8,23 +8,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "NoEntry Danger"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Chicago"
+      "value": "T_shirt FakeClimber"
     },
     {
       "trait_type": "Head",
-      "value": "AnarchyBoy Drop"
+      "value": "Wizard Acid"
     },
     {
       "trait_type": "Front Body",
-      "value": "T_shirt Chicago"
+      "value": ""
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": "NoEntry Danger"
     }
   ]
 }

@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "MIRAKO. #003"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who ToonsAreAlright"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Dead80"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadCircus Drop"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

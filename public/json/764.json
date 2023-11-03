@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "MadCapsule Light"
+      "value": "NoEntry Light"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Nuxx"
+      "value": "Hoodie Mustard"
     },
     {
       "trait_type": "Head",
-      "value": "Wizard Dawn"
+      "value": "AnarchyBoy AoOni"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Light"
     }
   ]
 }

@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "MetaKozo #003"
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

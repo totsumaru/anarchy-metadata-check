@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Revival kasabian"
+      "value": "NoEntry Danger"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt FakeClimber"
+      "value": "T_shirt Drop"
     },
     {
       "trait_type": "Head",
-      "value": "P_R_A_N Fog"
+      "value": "SadTeddy Midnight"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Danger"
     }
   ]
 }

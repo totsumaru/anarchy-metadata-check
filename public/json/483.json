@@ -3,28 +3,8 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "Style",
-      "value": "Vintage"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Air Smoky"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Toon Smoky"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Devil Smoky"
-    },
-    {
-      "trait_type": "Front Body",
-      "value": ""
-    },
-    {
-      "trait_type": "Foreground",
-      "value": ""
+      "trait_type": "StrayAnarchy",
+      "value": "IGUNFT #006"
     }
   ]
 }

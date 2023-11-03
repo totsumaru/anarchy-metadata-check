@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "ZION #005"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Safety"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Survivor"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SleepGoat Drop"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Safety"
     }
   ]
 }

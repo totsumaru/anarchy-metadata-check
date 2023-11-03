@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "TripMenu Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Midnight"
+      "value": "T_shirt FakeClimber"
     },
     {
       "trait_type": "Head",
-      "value": "IronBoy Velvet"
+      "value": "Braindead Acid"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

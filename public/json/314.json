@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Wavves"
+      "value": "NoEntry Safety"
     },
     {
       "trait_type": "Body",
-      "value": "Down Velvet"
+      "value": "T_shirt Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "Arctic Brain"
+      "value": "king DeepDive"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Safety"
     }
   ]
 }

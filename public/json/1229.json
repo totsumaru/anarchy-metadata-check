@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "PlanetOfAnarchy Utopia"
+      "value": "NoEntry Safety"
     },
     {
       "trait_type": "Body",
-      "value": "Toon TooDeep"
+      "value": "Jacket Drop"
     },
     {
       "trait_type": "Head",
-      "value": "RoyalSkull Midnight"
+      "value": "AnarchyBoy Acid"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Safety"
     }
   ]
 }

@@ -8,7 +8,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "CurtainCall"
+      "value": "NoEntry Heavy"
     },
     {
       "trait_type": "Body",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "AirJam Velvet"
+      "value": "BurglarBunny Drop"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Heavy"
     }
   ]
 }

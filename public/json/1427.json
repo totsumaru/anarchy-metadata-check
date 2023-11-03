@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Candy"
+      "value": "Air Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Acid"
+      "value": "T_shirt Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "RoyalSkull Fog"
+      "value": "Lily Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Candy"
+      "value": ""
     }
   ]
 }

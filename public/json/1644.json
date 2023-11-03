@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1644",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.77"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

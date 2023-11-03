@@ -3,28 +3,8 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "Style",
-      "value": "Vintage"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Encore"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Jacket Smoky"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Quack Smoky"
-    },
-    {
-      "trait_type": "Front Body",
-      "value": ""
-    },
-    {
-      "trait_type": "Foreground",
-      "value": ""
+      "trait_type": "StrayAnarchy",
+      "value": "PHAGY #003"
     }
   ]
 }

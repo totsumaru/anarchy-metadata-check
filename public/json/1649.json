@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1649",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Mustard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadTeddy Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

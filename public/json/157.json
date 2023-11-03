@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "Air BlueHawaii"
     },
     {
       "trait_type": "Body",
-      "value": "Down Fog"
+      "value": "Toon MadAcid"
     },
     {
       "trait_type": "Head",
-      "value": "SleepGoat Velvet"
+      "value": "RoyalSkull Velvet"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

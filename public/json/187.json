@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "PA3L #003"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Danger"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Mustard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Danger"
     }
   ]
 }

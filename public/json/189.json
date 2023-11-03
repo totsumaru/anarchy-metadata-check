@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Dreamy"
+      "value": "Air Brain"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Mustard"
+      "value": "T_shirt Runaway"
     },
     {
       "trait_type": "Head",
-      "value": "AirJam DeepDive"
+      "value": "IronBoy Dawn"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Dreamy"
+      "value": ""
     }
   ]
 }

@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "PHAGY #003"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DaftDuck Drop"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

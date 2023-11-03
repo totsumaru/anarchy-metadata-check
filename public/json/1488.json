@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Daydream"
+      "value": "InTheShell"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt NOFX"
+      "value": "Toon Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "SadTeddy Dawn"
+      "value": "DaftDuck DeepDive"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Daydream"
+      "value": ""
     }
   ]
 }

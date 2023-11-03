@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "DigitalRiotMidnight"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "PlanetOfAnarchy Utopia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

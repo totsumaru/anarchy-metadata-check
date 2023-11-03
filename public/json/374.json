@@ -3,28 +3,8 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "Style",
-      "value": "Color"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Revival Franz"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Jacket Lad"
-    },
-    {
-      "trait_type": "Head",
-      "value": "BurglarBunny Michelle"
-    },
-    {
-      "trait_type": "Front Body",
-      "value": ""
-    },
-    {
-      "trait_type": "Foreground",
-      "value": ""
+      "trait_type": "StrayAnarchy",
+      "value": "NEO TOKYO PUNKS #007"
     }
   ]
 }

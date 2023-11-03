@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Revival Raconteur"
+      "value": "NoEntry Safety"
     },
     {
       "trait_type": "Body",
-      "value": "Toon MadAcid"
+      "value": "T_shirt DeepDive"
     },
     {
       "trait_type": "Head",
-      "value": "TimidBoy Acid"
+      "value": "MikiMauo Acid"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Safety"
     }
   ]
 }

@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Vintage"
+      "value": "Color"
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Smoky"
+      "value": "Daydream"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Smoky"
+      "value": "T_shirt Climber"
     },
     {
       "trait_type": "Head",
-      "value": "BurglarBunny Smoky"
+      "value": "Sid Fog"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Daydream"
     }
   ]
 }

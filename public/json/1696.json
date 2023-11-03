@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1696",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu OffMenu"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Acid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy Acid"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

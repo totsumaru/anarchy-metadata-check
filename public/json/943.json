@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "PA3L #004"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.77"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Drop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AnarchyBoy Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

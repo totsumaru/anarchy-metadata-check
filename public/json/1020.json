@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "MadCapsule Light"
+      "value": "NoEntry Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Nuxx"
+      "value": "Jacket Leather"
     },
     {
       "trait_type": "Head",
-      "value": "Braindead Dead60"
+      "value": "Braindead Fog"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Heavy"
     }
   ]
 }

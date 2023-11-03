@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "Air Lemon"
+      "value": "Nightmare Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Midnight"
+      "value": "Jacket Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "AnarchistBoy Drop"
+      "value": "SadTeddy Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Nightmare Smoky"
     }
   ]
 }

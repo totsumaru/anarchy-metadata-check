@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1610",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CurtainCall"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DumbPunk Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Vintage"
+      "value": "Color"
     },
     {
       "trait_type": "Background",
-      "value": "ThemeOfAnarchy Smoky"
+      "value": "NoEntry Safety"
     },
     {
       "trait_type": "Body",
-      "value": "Down Smoky"
+      "value": "T_shirt Sunset"
     },
     {
       "trait_type": "Head",
-      "value": "RoyalSkull Smoky"
+      "value": "SleepGoat Velvet"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Safety"
     }
   ]
 }

@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Light"
+      "value": "Air BlueHawaii"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Nuxx"
+      "value": "Hoodie Rotten"
     },
     {
       "trait_type": "Head",
-      "value": "SadCircus Midnight"
+      "value": "DumbPunk Midnight"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Light"
+      "value": ""
     }
   ]
 }

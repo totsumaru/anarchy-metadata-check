@@ -8,23 +8,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Air BlueHawaii"
+      "value": "Daydream"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Swamp"
+      "value": "T_shirt Dull"
     },
     {
       "trait_type": "Head",
-      "value": "MadClown DeepDive"
+      "value": "DumbPunk Velvet"
     },
     {
       "trait_type": "Front Body",
-      "value": "T_shirt Swamp"
+      "value": ""
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Daydream"
     }
   ]
 }

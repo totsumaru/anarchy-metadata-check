@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "ArcticMango"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Melon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Mustard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadTeddy Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

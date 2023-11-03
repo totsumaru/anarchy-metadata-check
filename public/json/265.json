@@ -8,23 +8,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Candy"
+      "value": "PlanetOfAnarchy Dystopia"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Runaway"
+      "value": "T_shirt Fog"
     },
     {
       "trait_type": "Head",
-      "value": "RoyalSkull Fog"
+      "value": "AnarchyBoy Fog"
     },
     {
       "trait_type": "Front Body",
-      "value": ""
+      "value": "T_shirt Fog"
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Candy"
+      "value": ""
     }
   ]
 }

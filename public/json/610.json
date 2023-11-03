@@ -4,23 +4,23 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Vintage"
+      "value": "Color"
     },
     {
       "trait_type": "Background",
-      "value": "Encore"
+      "value": "MadCapsule Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Smoky"
+      "value": "T_shirt Swamp"
     },
     {
       "trait_type": "Head",
-      "value": "Quack Smoky"
+      "value": "DaftDuck Fetch"
     },
     {
       "trait_type": "Front Body",
-      "value": ""
+      "value": "T_shirt Swamp"
     },
     {
       "trait_type": "Foreground",

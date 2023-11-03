@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Daydream"
+      "value": "RollingBerry"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Midnight"
+      "value": "Toon Dawn"
     },
     {
       "trait_type": "Head",
-      "value": "DemonNerds Drop"
+      "value": "DorkyWolf Acid"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Daydream"
+      "value": ""
     }
   ]
 }

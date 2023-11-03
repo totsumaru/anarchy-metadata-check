@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "NEO TOKYO PUNKS #002"
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightmare Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Nightmare Smoky"
     }
   ]
 }

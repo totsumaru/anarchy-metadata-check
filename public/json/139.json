@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "PlanetOfAnarchy Utopia"
+      "value": "Nightmare Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Drop"
+      "value": "Toon Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "TimidBoy Fog"
+      "value": "AirJam Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Nightmare Smoky"
     }
   ]
 }

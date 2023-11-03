@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Light"
+      "value": "Who Roger"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie OnewayLove"
+      "value": "Hoodie Velvet"
     },
     {
       "trait_type": "Head",
-      "value": "Specter Rotten"
+      "value": "BurglarBunny Hatred"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Light"
+      "value": ""
     }
   ]
 }

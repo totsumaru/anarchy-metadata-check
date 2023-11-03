@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Safety"
+      "value": "NoEntry Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Chaos"
+      "value": "Down Foals"
     },
     {
       "trait_type": "Head",
-      "value": "BurglarBunny Libertine"
+      "value": "Arctic Grape"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Safety"
+      "value": "NoEntry Heavy"
     }
   ]
 }

@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "Who Generation"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Velvet"
+      "value": "Down Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "SadTeddy DeepDive"
+      "value": "Arctic Brain"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

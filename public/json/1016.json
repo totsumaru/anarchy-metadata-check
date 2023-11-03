@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "RollingLemon"
+      "value": "NoEntry Danger"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Survivor"
+      "value": "Jacket Drop"
     },
     {
       "trait_type": "Head",
-      "value": "MikiMauo Dawn"
+      "value": "king Velvet"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Danger"
     }
   ]
 }

@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Danger"
+      "value": "Air Grape"
     },
     {
       "trait_type": "Body",
-      "value": "Toon TooDeep"
+      "value": "T_shirt Climber"
     },
     {
       "trait_type": "Head",
-      "value": "AirJam DeepDive"
+      "value": "MikiMauo Dawn"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Danger"
+      "value": ""
     }
   ]
 }

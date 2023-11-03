@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Safety"
+      "value": "RollingBerry"
     },
     {
       "trait_type": "Body",
-      "value": "Toon Dawn"
+      "value": "Toon Velvet"
     },
     {
       "trait_type": "Head",
-      "value": "DorkyWolf Drop"
+      "value": "SadTeddy Sad"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Safety"
+      "value": ""
     }
   ]
 }

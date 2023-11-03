@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "RollingBerry"
+      "value": "NoEntry Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Lad"
+      "value": "Hoodie Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "DumbPunk Acid"
+      "value": "DumbPunk Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Smoky"
     }
   ]
 }

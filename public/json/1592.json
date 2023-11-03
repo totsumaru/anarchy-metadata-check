@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Air Rotten"
+      "value": "NoEntry Danger"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Lad"
+      "value": "Toon LostLove"
     },
     {
       "trait_type": "Head",
-      "value": "Wizard Velvet"
+      "value": "Wizard Acid"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Danger"
     }
   ]
 }

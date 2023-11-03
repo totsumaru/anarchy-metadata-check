@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "TripMenu Heaven"
+      "value": "NoEntry Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "Toon DeepDive"
+      "value": "T_shirt Runaway"
     },
     {
       "trait_type": "Head",
-      "value": "Braindead Dead60"
+      "value": "MadClown Dawn"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Heavy"
     }
   ]
 }

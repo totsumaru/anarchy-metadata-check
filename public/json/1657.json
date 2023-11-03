@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1657",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Pete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Sunset"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RoyalSkull Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "ThemeOfAnarchy age.30"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt NOFX"
+      "value": "T_shirt Sunset"
     },
     {
       "trait_type": "Head",
-      "value": "BeastieCat Dawn"
+      "value": "DaftDuck DeepDive"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

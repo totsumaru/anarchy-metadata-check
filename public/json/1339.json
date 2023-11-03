@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Air Rotten"
+      "value": "Daydream"
     },
     {
       "trait_type": "Body",
-      "value": "Toon Poison"
+      "value": "Toon Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "BeastieCat Acid"
+      "value": "DumbPunk Dawn"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Daydream"
     }
   ]
 }

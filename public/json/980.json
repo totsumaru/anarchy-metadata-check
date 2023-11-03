@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Candy"
+      "value": "PlanetOfAnarchy Dystopia"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Midnight"
+      "value": "T_shirt Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "DemonNerds Velvet"
+      "value": "IronBoy Dawn"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Candy"
+      "value": ""
     }
   ]
 }

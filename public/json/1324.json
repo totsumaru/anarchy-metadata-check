@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "ThemeOfAnarchy age.30"
+      "value": "NoEntry Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "Down Midnight"
+      "value": "Hoodie Dull"
     },
     {
       "trait_type": "Head",
-      "value": "SleepGoat BlackMath"
+      "value": "RoyalSkull Velvet"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Heavy"
     }
   ]
 }

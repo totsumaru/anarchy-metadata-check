@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Dreamy"
+      "value": "MadCapsule Light"
     },
     {
       "trait_type": "Body",
-      "value": "Down Forest"
+      "value": "Down Foals"
     },
     {
       "trait_type": "Head",
-      "value": "SadCircus Woodstock"
+      "value": "RoyalSkull Dawn"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Dreamy"
+      "value": ""
     }
   ]
 }

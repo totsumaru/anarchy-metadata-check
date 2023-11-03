@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "Air Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "Down Foals"
+      "value": "T_shirt Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "MadClown It"
+      "value": "BurglarBunny Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

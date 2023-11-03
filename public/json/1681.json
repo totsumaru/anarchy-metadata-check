@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1681",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "PlanetOfAnarchy Shangri-La"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lily DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

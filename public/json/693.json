@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Air Milk"
+      "value": "NoEntry Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Survivor"
+      "value": "T_shirt Drop"
     },
     {
       "trait_type": "Head",
-      "value": "Braindead Velvet"
+      "value": "DemonNerds Acid"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Heavy"
     }
   ]
 }

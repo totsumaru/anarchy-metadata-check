@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "Air Lemon"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie DeepDive"
+      "value": "Jacket Lager"
     },
     {
       "trait_type": "Head",
-      "value": "DorkyWolf  Outtathaway"
+      "value": "Quack 7Nation"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

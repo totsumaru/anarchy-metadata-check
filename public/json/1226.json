@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Vintage"
+      "value": "Color"
     },
     {
       "trait_type": "Background",
-      "value": "ThemeOfAnarchy Smoky"
+      "value": "ThemeOfAnarchy age.42"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Smoky"
+      "value": "Toon Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "DemonNerds Smoky"
+      "value": "SadTeddy Acid"
     },
     {
       "trait_type": "Front Body",

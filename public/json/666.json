@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "ZION #004"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Heavy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1606",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Grape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Super-me"
+    },
+    {
+      "trait_type": "Head",
+      "value": "IronBoy Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Dreamy"
+      "value": "PlanetOfAnarchy Utopia"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt GWD"
+      "value": "T_shirt Acid"
     },
     {
       "trait_type": "Head",
-      "value": "Braindead DeepDive"
+      "value": "SadCircus Woodstock"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Dreamy"
+      "value": ""
     }
   ]
 }

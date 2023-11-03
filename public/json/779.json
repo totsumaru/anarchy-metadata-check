@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "ThemeOfAnarchy age.30"
+      "value": "Nightmare Candy"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Leather"
+      "value": "Jacket Lager"
     },
     {
       "trait_type": "Head",
-      "value": "IronBoy Drop"
+      "value": "AnarchyBoy Velvet"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Nightmare Candy"
     }
   ]
 }

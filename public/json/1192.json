@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Daydream"
+      "value": "Air Milk"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Fog"
+      "value": "Jacket Lager"
     },
     {
       "trait_type": "Head",
-      "value": "MikiMauo Drop"
+      "value": "Specter Fog"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Daydream"
+      "value": ""
     }
   ]
 }

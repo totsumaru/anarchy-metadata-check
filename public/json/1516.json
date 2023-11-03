@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Vintage"
+      "value": "Color"
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Smoky"
+      "value": "ThemeOfAnarchy age.42"
     },
     {
       "trait_type": "Body",
-      "value": "Down Smoky"
+      "value": "T_shirt FakeClimber"
     },
     {
       "trait_type": "Head",
-      "value": "Specter Smoky"
+      "value": "MikiMauo Acid"
     },
     {
       "trait_type": "Front Body",

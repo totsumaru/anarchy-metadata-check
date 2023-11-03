@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "CyberReaperGirl Resistance"
+      "value": "NoEntry Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Fog"
+      "value": "Jacket Nuxx"
     },
     {
       "trait_type": "Head",
-      "value": "Devil LexHive"
+      "value": "Specter Fog"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Heavy"
     }
   ]
 }

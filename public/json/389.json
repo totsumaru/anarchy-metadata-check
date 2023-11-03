@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "MetaKozo #002"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ThemeOfAnarchy age.20"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sid Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

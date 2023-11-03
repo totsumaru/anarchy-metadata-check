@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1652",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Daydream"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt NOFX"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Specter Drop"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Daydream"
+    }
+  ]
+}

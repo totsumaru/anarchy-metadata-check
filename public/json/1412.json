@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "ThemeOfAnarchy Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Midnight"
+      "value": "Jacket Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "Sid Acid"
+      "value": "MadClown Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

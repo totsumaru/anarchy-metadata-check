@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Candy"
+      "value": "PlanetOfAnarchy Shangri-La"
     },
     {
       "trait_type": "Body",
-      "value": "Toon DeepDive"
+      "value": "T_shirt Runaway"
     },
     {
       "trait_type": "Head",
-      "value": "AnarchistBoy Fog"
+      "value": "DumbPunk Midnight"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Candy"
+      "value": ""
     }
   ]
 }

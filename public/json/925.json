@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "TripMenu Medium"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Mustard"
+      "value": "Down Fog"
     },
     {
       "trait_type": "Head",
-      "value": "DorkyWolf Drop"
+      "value": "Arctic Strawberry"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

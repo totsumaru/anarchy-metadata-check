@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "MadCapsule Light"
+      "value": "NoEntry Safety"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Survivor"
+      "value": "Down Dawn"
     },
     {
       "trait_type": "Head",
-      "value": "IronBoy Drop"
+      "value": "Arctic Melon"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Safety"
     }
   ]
 }

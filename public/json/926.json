@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Air Milk"
+      "value": "NoEntry Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Fog"
+      "value": "Hoodie Drop"
     },
     {
       "trait_type": "Head",
-      "value": "AnarchyBoy Acid"
+      "value": "SadTeddy Sad"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Heavy"
     }
   ]
 }

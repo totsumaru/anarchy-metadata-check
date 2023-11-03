@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "ArcticBlueHawaii"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "RollingBerry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon LostLove"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadTeddy Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

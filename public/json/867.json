@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "RollingLemon"
+      "value": "NoEntry Safety"
     },
     {
       "trait_type": "Body",
-      "value": "Down Velvet"
+      "value": "Toon Dawn"
     },
     {
       "trait_type": "Head",
-      "value": "DumbPunk Strokes"
+      "value": "AirJam Velvet"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Safety"
     }
   ]
 }

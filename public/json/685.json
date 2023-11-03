@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "ArcticBrain"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NoEntry Heavy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MikiMauo DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "NoEntry Heavy"
     }
   ]
 }

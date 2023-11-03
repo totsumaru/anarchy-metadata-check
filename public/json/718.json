@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Dreamy"
+      "value": "Air BlueHawaii"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Leather"
+      "value": "T_shirt Climber"
     },
     {
       "trait_type": "Head",
-      "value": "Sid Dawn"
+      "value": "Specter DeepDive"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Dreamy"
+      "value": ""
     }
   ]
 }

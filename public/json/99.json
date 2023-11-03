@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "JewelNight"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt NOFX"
+      "value": "T_shirt Survivor"
     },
     {
       "trait_type": "Head",
-      "value": "AnarchistBoy Fog"
+      "value": "BeastieCat Velvet"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

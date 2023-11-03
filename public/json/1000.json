@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Vintage"
+      "value": "Color"
     },
     {
       "trait_type": "Background",
-      "value": "Revival Smoky"
+      "value": "NoEntry Danger"
     },
     {
       "trait_type": "Body",
-      "value": "Toon Smoky"
+      "value": "Toon Crimson"
     },
     {
       "trait_type": "Head",
-      "value": "Lily Smoky"
+      "value": "AnarchistBoy Dawn"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Danger"
     }
   ]
 }

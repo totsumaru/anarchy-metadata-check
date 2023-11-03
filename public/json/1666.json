@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1666",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "PlanetOfAnarchy Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "king Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

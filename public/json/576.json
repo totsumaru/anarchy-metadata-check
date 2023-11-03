@@ -3,28 +3,8 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "Style",
-      "value": "Color"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Air SugarCube"
-    },
-    {
-      "trait_type": "Body",
-      "value": "T_shirt Super-me"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Wizard Velvet"
-    },
-    {
-      "trait_type": "Front Body",
-      "value": ""
-    },
-    {
-      "trait_type": "Foreground",
-      "value": ""
+      "trait_type": "StrayAnarchy",
+      "value": "IGUNFT #002"
     }
   ]
 }

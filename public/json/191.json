@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "PlanetOfAnarchy Smoky"
+      "value": "NoEntry Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Smoky"
+      "value": "Toon Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "SleepGoat Smoky"
+      "value": "BurglarBunny Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Smoky"
     }
   ]
 }

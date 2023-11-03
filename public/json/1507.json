@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Dreamy"
+      "value": "PlanetOfAnarchy Shangri-La"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Super-me"
+      "value": "T_shirt FakeClimber"
     },
     {
       "trait_type": "Head",
-      "value": "Devil Velvet"
+      "value": "IronBoy Dull"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Dreamy"
+      "value": ""
     }
   ]
 }

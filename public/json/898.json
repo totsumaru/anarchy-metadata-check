@@ -4,27 +4,27 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Light"
+      "value": "Who Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Swamp"
+      "value": "T_shirt Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "Specter Acid"
+      "value": "BeastieCat Smoky"
     },
     {
       "trait_type": "Front Body",
-      "value": "T_shirt Swamp"
+      "value": ""
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Light"
+      "value": ""
     }
   ]
 }

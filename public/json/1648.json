@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1648",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Super-me"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braindead Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

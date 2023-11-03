@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "Phagy #007"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TripMenu Heaven"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Lad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SadTeddy Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

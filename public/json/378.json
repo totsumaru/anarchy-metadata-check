@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "MetaKozo #005"
+      "trait_type": "Style",
+      "value": "Vintage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "SpaceWars Smoky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Down Smoky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "IronBoy Smoky"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

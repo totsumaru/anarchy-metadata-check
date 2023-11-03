@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Danger"
+      "value": "Nightmare Candy"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Drop"
+      "value": "Hoodie Drop"
     },
     {
       "trait_type": "Head",
-      "value": "Quack Velvet"
+      "value": "AirJam Acid"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Danger"
+      "value": "Nightmare Candy"
     }
   ]
 }

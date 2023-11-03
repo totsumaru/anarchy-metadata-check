@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "ThemeOfAnarchy age.20"
+      "value": "Daydream"
     },
     {
       "trait_type": "Body",
-      "value": "Down DeepDive"
+      "value": "Down Forest"
     },
     {
       "trait_type": "Head",
-      "value": "DemonNerds Midnight"
+      "value": "Braindead Drop"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Daydream"
     }
   ]
 }

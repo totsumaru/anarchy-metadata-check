@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "MIRAKO. #002"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air BlueHawaii"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Fog"
+    },
+    {
+      "trait_type": "Head",
+      "value": "TimidBoy Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

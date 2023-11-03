@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "John #004"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CyberReaperGirl Puberty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Climber"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DorkyWolf Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

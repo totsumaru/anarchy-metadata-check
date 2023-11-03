@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "ThemeOfAnarchy age.30"
+      "value": "NoEntry Safety"
     },
     {
       "trait_type": "Body",
-      "value": "Down Foals"
+      "value": "Down Forest"
     },
     {
       "trait_type": "Head",
-      "value": "Arctic Grape"
+      "value": "Arctic BlueHawaii"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Safety"
     }
   ]
 }

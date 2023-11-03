@@ -3,28 +3,8 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "Style",
-      "value": "Color"
-    },
-    {
-      "trait_type": "Background",
-      "value": "TripMenu OffMenu"
-    },
-    {
-      "trait_type": "Body",
-      "value": "T_shirt Survivor"
-    },
-    {
-      "trait_type": "Head",
-      "value": "BeastieCat Dawn"
-    },
-    {
-      "trait_type": "Front Body",
-      "value": ""
-    },
-    {
-      "trait_type": "Foreground",
-      "value": ""
+      "trait_type": "StrayAnarchy",
+      "value": "MIRAKO. #006"
     }
   ]
 }

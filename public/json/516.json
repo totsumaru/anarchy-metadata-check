@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "MetaKozo #006"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Wavves"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Swamp"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DaftDuck Velvet"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": "T_shirt Swamp"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

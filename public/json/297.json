@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Light"
+      "value": "Daydream"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt GWD"
+      "value": "Down Foals"
     },
     {
       "trait_type": "Head",
-      "value": "SadCircus Midnight"
+      "value": "Specter DeepDive"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Light"
+      "value": "Daydream"
     }
   ]
 }

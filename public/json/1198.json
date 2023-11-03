@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Daydream"
+      "value": "TripMenu Medium"
     },
     {
       "trait_type": "Body",
-      "value": "Toon Poison"
+      "value": "T_shirt Drop"
     },
     {
       "trait_type": "Head",
-      "value": "BeastieCat Dawn"
+      "value": "Lily DeepDive"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Daydream"
+      "value": ""
     }
   ]
 }

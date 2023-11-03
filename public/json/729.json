@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "Revival Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Fog"
+      "value": "Jacket Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "Sid DeepDive"
+      "value": "SadTeddy Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

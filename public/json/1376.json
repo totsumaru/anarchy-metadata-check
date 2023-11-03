@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "SpaceWars Attack"
+      "value": "Daydream"
     },
     {
       "trait_type": "Body",
-      "value": "Down DeepDive"
+      "value": "Down Forest"
     },
     {
       "trait_type": "Head",
-      "value": "MadClown Drop"
+      "value": "Quack Midnight"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Daydream"
     }
   ]
 }

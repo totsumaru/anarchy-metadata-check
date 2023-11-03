@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Safety"
+      "value": "NoEntry Danger"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Fog"
+      "value": "Down Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "king Drop"
+      "value": "MadClown Fog"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Safety"
+      "value": "NoEntry Danger"
     }
   ]
 }

@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Light"
+      "value": "MadCapsule Light"
     },
     {
       "trait_type": "Body",
-      "value": "Toon MadAcid"
+      "value": "Hoodie Dull"
     },
     {
       "trait_type": "Head",
-      "value": "DemonNerds Velvet"
+      "value": "DumbPunk Velvet"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Light"
+      "value": ""
     }
   ]
 }

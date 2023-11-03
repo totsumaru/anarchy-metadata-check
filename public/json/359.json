@@ -4,23 +4,23 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "Air Strawberry"
+      "value": "Air Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Chicago"
+      "value": "Toon Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "king Dawn"
+      "value": "Quack Smoky"
     },
     {
       "trait_type": "Front Body",
-      "value": "T_shirt Chicago"
+      "value": ""
     },
     {
       "trait_type": "Foreground",

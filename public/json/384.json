@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Safety"
+      "value": "Who Pete"
     },
     {
       "trait_type": "Body",
-      "value": "Toon Poison"
+      "value": "Down Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "Quack Acid"
+      "value": "RoyalSkull DeadKing"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Safety"
+      "value": ""
     }
   ]
 }

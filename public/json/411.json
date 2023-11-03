@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Safety"
+      "value": "Air Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Chaos"
+      "value": "Down Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "DemonNerds Drop"
+      "value": "Wizard Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Safety"
+      "value": ""
     }
   ]
 }

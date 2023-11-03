@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "TypographyRiot Pistol"
+      "value": "NoEntry Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt DeepDive"
+      "value": "Toon Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "Wizard Dawn"
+      "value": "AirJam Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Smoky"
     }
   ]
 }

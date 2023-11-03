@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "John #003"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Midnight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "king Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

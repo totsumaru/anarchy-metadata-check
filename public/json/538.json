@@ -8,23 +8,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Dreamy"
+      "value": "MadCapsule Light"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Fog"
+      "value": "T_shirt Drop"
     },
     {
       "trait_type": "Head",
-      "value": "AirJam Midnight"
+      "value": "AirJam DeepDive"
     },
     {
       "trait_type": "Front Body",
-      "value": "T_shirt Fog"
+      "value": ""
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Dreamy"
+      "value": ""
     }
   ]
 }

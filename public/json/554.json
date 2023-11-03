@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Light"
+      "value": "CyberReaperGirl Resistance"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt FakeClimber"
+      "value": "Hoodie OnewayLove"
     },
     {
       "trait_type": "Head",
-      "value": "MadClown DeepDive"
+      "value": "Specter Velvet"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Light"
+      "value": ""
     }
   ]
 }

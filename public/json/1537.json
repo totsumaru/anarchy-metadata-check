@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Revival Raconteur"
+      "value": "NoEntry Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Drop"
+      "value": "Hoodie DeepDive"
     },
     {
       "trait_type": "Head",
-      "value": "Quack Drop"
+      "value": "Braindead Drop"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Heavy"
     }
   ]
 }

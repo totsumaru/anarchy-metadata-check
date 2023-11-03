@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Danger"
+      "value": "CurtainCall"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Drop"
+      "value": "Toon LostLove"
     },
     {
       "trait_type": "Head",
-      "value": "P_R_A_N Dawn"
+      "value": "DaftDuck DeepDive"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Danger"
+      "value": ""
     }
   ]
 }

@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "MIRAKO. #005"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TypographyRiot Clash"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Velvet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "P_R_A_N DeepDive"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

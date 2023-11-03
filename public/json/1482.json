@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Light"
+      "value": "Who Pete"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Leather"
+      "value": "Jacket Lager"
     },
     {
       "trait_type": "Head",
-      "value": "Braindead Acid"
+      "value": "Quack Fog"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Light"
+      "value": ""
     }
   ]
 }

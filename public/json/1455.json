@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Dreamy"
+      "value": "PlanetOfAnarchy Dystopia"
     },
     {
       "trait_type": "Body",
-      "value": "Down Velvet"
+      "value": "T_shirt GWD"
     },
     {
       "trait_type": "Head",
-      "value": "AnarchistBoy DeepDive"
+      "value": "AnarchistBoy AkaOni"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Dreamy"
+      "value": ""
     }
   ]
 }

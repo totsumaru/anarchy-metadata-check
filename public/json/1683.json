@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1683",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Who Pete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Survivor"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil Fog"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

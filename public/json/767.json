@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "ThemeOfAnarchy age.77"
+      "value": "NoEntry Light"
     },
     {
       "trait_type": "Body",
-      "value": "Toon Crimson"
+      "value": "Hoodie Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "AnarchistBoy Drop"
+      "value": "Sid Midnight"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Light"
     }
   ]
 }

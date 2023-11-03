@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Dreamy"
+      "value": "Air Rotten"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Dull"
+      "value": "Toon Poison"
     },
     {
       "trait_type": "Head",
-      "value": "DumbPunk DeepDive"
+      "value": "AnarchistBoy Galaxydays"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Dreamy"
+      "value": ""
     }
   ]
 }

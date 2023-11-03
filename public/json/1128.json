@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Vintage"
+      "value": "Color"
     },
     {
       "trait_type": "Background",
-      "value": "Encore"
+      "value": "NoEntry Danger"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Smoky"
+      "value": "Down Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "MikiMauo Smoky"
+      "value": "Arctic Grape"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Danger"
     }
   ]
 }

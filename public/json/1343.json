@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "PlanetOfAnarchy Utopia"
     },
     {
       "trait_type": "Body",
-      "value": "Jacket Nuxx"
+      "value": "Toon Poison"
     },
     {
       "trait_type": "Head",
-      "value": "BurglarBunny Toon"
+      "value": "IronBoy Midnight"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

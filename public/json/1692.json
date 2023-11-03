@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1692",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "PlanetOfAnarchy Dystopia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "T_shirt Super-me"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SleepGoat Midnight"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

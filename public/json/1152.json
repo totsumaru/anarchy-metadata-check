@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Danger"
+      "value": "Air Milk"
     },
     {
       "trait_type": "Body",
-      "value": "Toon TooDeep"
+      "value": "Toon Velvet"
     },
     {
       "trait_type": "Head",
-      "value": "P_R_A_N Midnight"
+      "value": "Specter Fog"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Danger"
+      "value": ""
     }
   ]
 }

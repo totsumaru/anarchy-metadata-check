@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Dreamy"
+      "value": "SpaceWars Attack"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Super-me"
+      "value": "T_shirt GWD"
     },
     {
       "trait_type": "Head",
-      "value": "king Velvet"
+      "value": "Wizard Midnight"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Dreamy"
+      "value": ""
     }
   ]
 }

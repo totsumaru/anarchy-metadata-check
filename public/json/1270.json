@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Candy"
+      "value": "Air Lemon"
     },
     {
       "trait_type": "Body",
-      "value": "Toon Velvet"
+      "value": "Down Foals"
     },
     {
       "trait_type": "Head",
-      "value": "TimidBoy Velvet"
+      "value": "Lily Velvet"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Candy"
+      "value": ""
     }
   ]
 }

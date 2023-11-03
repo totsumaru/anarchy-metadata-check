@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "Air Milk"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Velvet"
+      "value": "T_shirt Climber"
     },
     {
       "trait_type": "Head",
-      "value": "Quack Drop"
+      "value": "SleepGoat Midnight"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

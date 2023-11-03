@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Vintage"
+      "value": "Color"
     },
     {
       "trait_type": "Background",
-      "value": "TripMenu Smoky"
+      "value": "TripMenu Medium"
     },
     {
       "trait_type": "Body",
-      "value": "Toon Smoky"
+      "value": "Toon Midnight"
     },
     {
       "trait_type": "Head",
-      "value": "king Smoky"
+      "value": "MadClown Velvet"
     },
     {
       "trait_type": "Front Body",

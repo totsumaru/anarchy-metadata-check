@@ -3,8 +3,28 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "StrayAnarchy",
-      "value": "PA3L #005"
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "MadCapsule Heavy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jacket Dead80"
+    },
+    {
+      "trait_type": "Head",
+      "value": "P_R_A_N TheClash"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1604",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Air Melon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toon DeepDive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MadClown Dawn"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

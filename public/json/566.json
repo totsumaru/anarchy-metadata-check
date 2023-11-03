@@ -8,23 +8,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "NoEntry Heavy"
+      "value": "MadCapsule Light"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Midnight"
+      "value": "T_shirt Fog"
     },
     {
       "trait_type": "Head",
-      "value": "MadClown Dawn"
+      "value": "Lily Midnight"
     },
     {
       "trait_type": "Front Body",
-      "value": ""
+      "value": "T_shirt Fog"
     },
     {
       "trait_type": "Foreground",
-      "value": "NoEntry Heavy"
+      "value": ""
     }
   ]
 }

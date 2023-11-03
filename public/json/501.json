@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Air SugarCube"
+      "value": "NoEntry Light"
     },
     {
       "trait_type": "Body",
-      "value": "Toon Poison"
+      "value": "Jacket Lager"
     },
     {
       "trait_type": "Head",
-      "value": "Devil Drop"
+      "value": "BeastieCat Dawn"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Light"
     }
   ]
 }

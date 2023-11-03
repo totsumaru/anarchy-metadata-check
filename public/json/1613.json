@@ -1,0 +1,30 @@
+{
+  "name": "The ANARCHY #1613",
+  "description": "説明です",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Color"
+    },
+    {
+      "trait_type": "Background",
+      "value": "CyberReaperGirl Resistance"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Super-me"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Quack 7Nation"
+    },
+    {
+      "trait_type": "Front Body",
+      "value": ""
+    },
+    {
+      "trait_type": "Foreground",
+      "value": ""
+    }
+  ]
+}

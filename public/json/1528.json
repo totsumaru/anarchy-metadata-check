@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Color"
+      "value": "Vintage"
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Candy"
+      "value": "Revival Smoky"
     },
     {
       "trait_type": "Body",
-      "value": "Down DeepDive"
+      "value": "Hoodie Smoky"
     },
     {
       "trait_type": "Head",
-      "value": "Arctic HeavyOil"
+      "value": "Lily Smoky"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Candy"
+      "value": ""
     }
   ]
 }

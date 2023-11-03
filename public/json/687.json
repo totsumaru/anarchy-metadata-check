@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Vintage"
+      "value": "Color"
     },
     {
       "trait_type": "Background",
-      "value": "ThemeOfAnarchy Smoky"
+      "value": "Nightmare Candy"
     },
     {
       "trait_type": "Body",
-      "value": "Toon Smoky"
+      "value": "Toon LostLove"
     },
     {
       "trait_type": "Head",
-      "value": "DaftDuck Smoky"
+      "value": "Devil Acid"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Nightmare Candy"
     }
   ]
 }

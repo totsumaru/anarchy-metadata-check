@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Who ToonsAreAlright"
+      "value": "NoEntry Safety"
     },
     {
       "trait_type": "Body",
-      "value": "T_shirt Velvet"
+      "value": "Hoodie Rotten"
     },
     {
       "trait_type": "Head",
-      "value": "MadClown Fog"
+      "value": "Braindead DeepDive"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Safety"
     }
   ]
 }

@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Air Lemon"
+      "value": "NoEntry Light"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Fog"
+      "value": "T_shirt Drop"
     },
     {
       "trait_type": "Head",
-      "value": "P_R_A_N Midnight"
+      "value": "DemonNerds Dawn"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Light"
     }
   ]
 }

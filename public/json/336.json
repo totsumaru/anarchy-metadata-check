@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Nightmare Dreamy"
+      "value": "Air Rotten"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Fog"
+      "value": "T_shirt DeepDive"
     },
     {
       "trait_type": "Head",
-      "value": "Lily Velvet"
+      "value": "MikiMauo Fog"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Nightmare Dreamy"
+      "value": ""
     }
   ]
 }

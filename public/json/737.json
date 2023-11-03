@@ -4,19 +4,19 @@
   "attributes": [
     {
       "trait_type": "Style",
-      "value": "Vintage"
+      "value": "Color"
     },
     {
       "trait_type": "Background",
-      "value": "SpaceWars Smoky"
+      "value": "Daydream"
     },
     {
       "trait_type": "Body",
-      "value": "Hoodie Smoky"
+      "value": "Down Forest"
     },
     {
       "trait_type": "Head",
-      "value": "MikiMauo Smoky"
+      "value": "SadTeddy Drop"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "Daydream"
     }
   ]
 }

@@ -8,15 +8,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Daydream"
+      "value": "TripMenu Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "Down Foals"
+      "value": "Jacket Drop"
     },
     {
       "trait_type": "Head",
-      "value": "SadTeddy Drop"
+      "value": "TimidBoy Fog"
     },
     {
       "trait_type": "Front Body",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Foreground",
-      "value": "Daydream"
+      "value": ""
     }
   ]
 }

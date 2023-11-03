@@ -8,23 +8,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "TripMenu Medium"
+      "value": "NoEntry Heavy"
     },
     {
       "trait_type": "Body",
-      "value": "Toon MadAcid"
+      "value": "T_shirt Chicago"
     },
     {
       "trait_type": "Head",
-      "value": "AnarchyBoy DeepDive"
+      "value": "MadClown Acid"
     },
     {
       "trait_type": "Front Body",
-      "value": ""
+      "value": "T_shirt Chicago"
     },
     {
       "trait_type": "Foreground",
-      "value": ""
+      "value": "NoEntry Heavy"
     }
   ]
 }

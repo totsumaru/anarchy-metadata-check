@@ -3,28 +3,8 @@
   "description": "説明です",
   "attributes": [
     {
-      "trait_type": "Style",
-      "value": "Color"
-    },
-    {
-      "trait_type": "Background",
-      "value": "MadCapsule Heavy"
-    },
-    {
-      "trait_type": "Body",
-      "value": "T_shirt Velvet"
-    },
-    {
-      "trait_type": "Head",
-      "value": "RoyalSkull Midnight"
-    },
-    {
-      "trait_type": "Front Body",
-      "value": ""
-    },
-    {
-      "trait_type": "Foreground",
-      "value": ""
+      "trait_type": "StrayAnarchy",
+      "value": "IGUNFT #003"
     }
   ]
 }
